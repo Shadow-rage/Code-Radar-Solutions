@@ -1,7 +1,7 @@
 // Your code here...
 #include <stdio.h>
 int main(){
-    char[100] x;
-    scanf("%c", &x);
-    printf("You entered: %c", x);
+    char x[100];
+    scanf("%99s", &x);
+    printf("You entered: %s\n", x);
 }
