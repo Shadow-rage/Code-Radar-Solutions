@@ -6,7 +6,7 @@ int main()
     printf("");
     scanf("%d", &num);
 
-    printf("Hexadecimal: %x\n", num);
+    printf("Hexadecimal: %X\n", num);
     printf("Octal: %o\n", num);
 
     return 0;
