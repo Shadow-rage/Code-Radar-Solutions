@@ -10,5 +10,5 @@ int main()
 
     printf("Average: %lf", result);
 
-    return 0
+    return 0;
 }
