@@ -8,7 +8,7 @@ int main()
 
     result = (n1 + n2 + n3) / 3;
 
-    printf("Average: %lf", result);
+    printf("Average: %.2lf", result);
 
     return 0;
 }
