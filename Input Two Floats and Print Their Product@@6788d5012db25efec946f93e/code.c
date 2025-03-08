@@ -7,6 +7,6 @@ int main()
     scanf("%f %f", &num1, &num2);
 
     int result = num1*num2;
-    printf("Product: %d", result);
+    printf("Product: %.2f\n", result);
     return 0;
 }
