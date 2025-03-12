@@ -6,7 +6,7 @@ int main()
     printf("");
     scanf("%d %d", &a, &b);
 
-    int result = a > > b;
+    int result = a >> b;
 
     printf("%d", result);
 
